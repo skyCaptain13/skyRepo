@@ -5,6 +5,7 @@ using System.Text;
 using System.ComponentModel;
 using System.Windows.Data;
 
+// Edited from Master branch
 namespace DataGrid
 {
     public class CustomerViewModel
